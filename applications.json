@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2026-04-02 21:58:58",
+        "telegram_id": 6462528143,
+        "telegram_name": "Madiyar Adilbek",
+        "child_name": "МАДИ",
+        "age": "11",
+        "grade": "5",
+        "subject": "📖 Математика",
+        "goal": "Подтянуть оценки",
+        "days": "📅 Пн, Ср, Пт",
+        "duration": "⏱ 1 час",
+        "format": "💻 Онлайн",
+        "parent_phone": "+7 777 234 4040",
+        "comment": "Нет"
+    },
+    {
+        "date": "2026-04-02 22:10:05",
+        "telegram_id": 1368742170,
+        "telegram_name": "Slu Sergeevna",
+        "child_name": "Мадияр",
+        "age": "12",
+        "grade": "5",
+        "subject": "📖 Математика",
+        "goal": "Подтянуть оценки",
+        "days": "📅 Пн, Ср, Пт",
+        "duration": "⏱ 1 час",
+        "format": "💻 Онлайн",
+        "parent_phone": "87775844805",
+        "comment": "Нет"
+    },
+    {
+        "date": "2026-04-02 22:15:41",
+        "telegram_id": 896592872,
+        "telegram_name": "Баур",
+        "child_name": "Мадияр",
+        "age": "11",
+        "grade": "5",
+        "subject": "🌍 Английский язык",
+        "goal": "Подтянуть оценки",
+        "days": "📅 Пн, Ср, Пт",
+        "duration": "⏱ 1 час",
+        "format": "💻 Онлайн",
+        "parent_phone": "+77772107790",
+        "comment": "Нет"
+    }
+]
